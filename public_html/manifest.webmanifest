@@ -1,0 +1,21 @@
+{
+  "name": "Boldex Technologies",
+  "short_name": "Boldex",
+  "description": "Boldex Technologies provides web development, mobile apps, e-commerce, software, ERP integration, digital marketing, content creation and data analytics solutions in Lagos, Nigeria.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#070b1f",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/apple-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
